@@ -169,3 +169,12 @@ Nomad bridge has been attacked when they are making an update. The attack happen
 * **对我们的启发**
     * 虽然在我们的场景中，跨链Token方面的操作在应用层合约中完成（如locker），但权限校验机制需要由底层跨链合约来提供；
     * 跨链协议层的SQOS确实非常重要；
+
+## Gala & pNetwork
+* 事件详情：https://www.coindesk.com/markets/2022/11/03/1b-crypto-hack-fears-spur-20-gala-plunge-but-firm-implies-it-attacked-itself-as-a-safeguard/
+    * 概述：由于配置错误（官方说法），黑客铸造了1Billion的pGala。Gala项目方发现之后，准备重新发一个pGala代币，并通知了交易所关闭原代币的充提，但是huobi好像并没有收到通知。为了不让黑客套现，Gala项目方把Pancake上面的流动性耗尽，也就是充入大量pGala，导致归零。一些用户发现之后，就购买了大量pGala充值到了huobi，把火币里面的gala价格砸下来，并实现了套利。
+
+    * 时间：2022-11-3
+
+    * pNetwork：https://p.network/
+
