@@ -173,7 +173,7 @@ Nomad bridge has been attacked when they are making an update. The attack happen
 ## Gala & pNetwork
 * 事件详情：https://www.coindesk.com/markets/2022/11/03/1b-crypto-hack-fears-spur-20-gala-plunge-but-firm-implies-it-attacked-itself-as-a-safeguard/
     * 分析：
-        * 由于配置错误（官方说法），黑客铸造了1B的pGala。
+        * 由于配置错误（官方说法），黑客铸造了价值$1B的pGala。
         * Gala项目方发现之后，准备重新发一个pGala代币，并通知了交易所关闭原代币的充提，但是huobi好像并没有收到通知。
         * 为了不让黑客套现，Gala项目方准备把Pancake上面的流动性耗尽，也就是充入大量pGala，导致其归零。
         * 一些用户发现之后，就购买了大量pGala充值到了huobi，把火币里面的gala价格砸下来，并实现了套利。
